@@ -1,0 +1,11 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Heart shape -->
+  <path d="M100 170c-5 0-10-2-14-6L40 120c-15-15-15-40 0-55s40-15 55 0l5 5 5-5c15-15 40-15 55 0s15 40 0 55l-46 44c-4 4-9 6-14 6z" fill="#E53E3E"/>
+  
+  <!-- Arrow -->
+  <path d="M85 90l15 15 25-25M125 80l-15 15" stroke="white" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- Text -->
+  <text x="100" y="190" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#333">America</text>
+  <text x="100" y="205" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#333">Learns</text>
+</svg>
